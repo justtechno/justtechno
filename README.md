@@ -7,4 +7,4 @@ Just a beginner coder and linux(and actually, any other tech) enthusiast.
 
 **frameworks, libraries and tools** - [Textual](https://github.com/textualize/textual)(Framework to make awesome terminal user interfaces on python), [Ncurses](https://github.com/mirror/ncurses)(old yet powerful library for terminal user interfaces and terminal games in c) [Neovim](https://github.com/neovim/neovim)(fast, flexible and lightweight text editor, i really like it)
 
-**currently working on** - [microwiki](https://github.com/justtechno/microwiki)(a simple knowledge base/note taking app in terminal)[scrollses](https://github.com/justtechno/scrollses)(an implementation of scrolling for ncurses, built with C)
+**currently working on** - [microwiki](https://github.com/justtechno/microwiki)(a simple knowledge base/note taking app in terminal)[scrollses]
